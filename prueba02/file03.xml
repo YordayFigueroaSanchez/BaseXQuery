@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<juego id="3">
+	<jugador id="32"> <data>3</data></jugador>
+	<jugador id="33"> <data>4</data></jugador>
+	<jugador id="34"> <data>5</data></jugador>
+</juego>
