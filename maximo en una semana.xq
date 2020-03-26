@@ -1,4 +1,4 @@
-for $player in /jornada[@nro='20']/game/team/player
+for $player in /jornada[@nro='27']/game/team/player
 order by $player/@player_code/string() descending
 return element persons {
   attribute point { $player/@point },
